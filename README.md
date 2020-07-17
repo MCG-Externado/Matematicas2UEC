@@ -16,7 +16,7 @@
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-    [Derivación](slides/ Razones-de-cambio-slides.html)
+    [Derivación](Cuadernos/MCG2-Razones de cambio.ipynb)
     1. Reglas básicas
     2. Optimización
 
