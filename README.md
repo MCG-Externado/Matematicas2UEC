@@ -16,7 +16,7 @@
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-    [Derivación](https://github.com/MCG-Externado/MCG2/edit/master/README.md)
+    [Derivación](https://github.com/MCG-Externado/MCG2/blob/master/slides/%20Razones-de-cambio-slides.html)
     1. Reglas básicas
     2. Optimización
 
