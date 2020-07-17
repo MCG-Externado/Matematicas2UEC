@@ -16,7 +16,7 @@
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-    [Derivación](Cuadernos/MCG2-Razones de cambio.ipynb)
+    [Derivación](https://github.com/MCG-Externado/MCG2/edit/master/README.md)
     1. Reglas básicas
     2. Optimización
 
