@@ -1,5 +1,5 @@
 # Matemáticas 2 U.E.C.
-*Curso de Métodos cuantitativos en Gestión 2 para la Facultad de Administración de Empresas, y Matemáticas 2 para la Facultad de Administración de Empresas Turísticas y Hoteleras  de la Universidad Externado de Colombia*
+*Cursos de Métodos cuantitativos en Gestión 2 para la Facultad de Administración de Empresas, y Matemáticas 2 para la Facultad de Administración de Empresas Turísticas y Hoteleras  de la Universidad Externado de Colombia*
 
 > Aquí encontrarán todos los cuadernos y actividades diseñadas para el curso. También habrán algunos vinculos interesantes y algunas indicaciones útiles para el proyecto final.
 
