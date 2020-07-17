@@ -16,8 +16,7 @@
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-    
-2. [Derivación](slides/ Razones-de-cambio-slides.html)
+    [Derivación](slides/ Razones-de-cambio-slides.html)
     1. Reglas básicas
     2. Optimización
 
