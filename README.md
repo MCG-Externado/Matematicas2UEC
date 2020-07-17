@@ -1,5 +1,5 @@
 # Métodos Cuantitativos en Gestión 2
-*Curso de Métodos cuantitativos en Gestión de la Universidad Externado de Colombia*
+*Curso de Métodos cuantitativos en Gestión 2 para la Facultad de Administración de Empresas de la Universidad Externado de Colombia*
 
 > Aquí encontrarán todos los cuadernos y actividades diseñadas para el curso. También habrán algunos vinculos interesantes y algunas indicaciones útiles para el proyecto final.
 
@@ -17,11 +17,12 @@
 
  1. Instalación e introducción al uso de Software 
  
-    [Derivación](slides/%20Razones-de-cambio-slides.html)
-    1. Reglas básicas
-    2. Optimización
+ 2. Derivación
+    1. [Razones de Cambio](slides/rdc.slides.html)
+    2. [Derivadas](slides/derivadas.slides.html)
+    3. [Optimización](slides/optimizacion.slides.html)
 
-3. Álgebra Lineal
+3. [Álgebra Lineal](slides/alglin.html)
     1. Definición y operaciones
     2. Sistemas de ecuaciones
     3. Determinantes
