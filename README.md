@@ -16,16 +16,8 @@
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-      1. Anaconda - Distribción de Python y R para la computación científica
     
-         Cuaderno 1 - Instalación de Anaconda
-           
-         Cuaderno 2 - Uso simple de Python
-    2. Azure Notebooks
-    3. Excel y la utilidad de las hojas de cálculo
-    4. Geogebra y la matemática interactiva.
-    
-2. Derivación
+2. [Derivación](/slides/1. Razones de cambio slides.html)
     1. Reglas básicas
     2. Optimización
 
