@@ -23,9 +23,9 @@
     3. [Optimización](slides/optimizacion.slides.html)
 
 3. [Álgebra Lineal](slides/alglin.html)
-    1. Definición y operaciones
-    2. Sistemas de ecuaciones
-    3. Determinantes
+    1. [Definición y operaciones](slides/alglin.html#Matrices)
+    2. [Sistemas de ecuaciones](slides/alglin.html#Resolución-de-sistemas-de-ecuaciones-lineales)
+    3. [Determinantes](slides/alglin.html#Determinantes)
     
 4. Funciones de varias variables 
     1. Funciones de varias variables
