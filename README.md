@@ -28,7 +28,7 @@
     3. [Determinantes](slides/alglin.html#Determinantes)
     
 4. Funciones de varias variables 
-    1. Funciones de varias variables
+    1. [Funciones de varias variables](slides/4.%20Funciones%20de%20dos%20Variables.slides.html)
     2. Derivadas parciales
     3. Cobb-Douglas, CES, Elasticidad
     4. Optimización
