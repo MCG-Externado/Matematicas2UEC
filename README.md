@@ -30,9 +30,8 @@
 4. Funciones de varias variables 
     1. [Funciones de varias variables](slides/4.%20Funciones%20de%20dos%20Variables.slides.html)
     2. [Derivadas parciales](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/5.%20Derivadas%20Parciales.slides.html)
-    3. Cobb-Douglas, CES, Elasticidad
-    4. [Optimización](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
-    5. Multiplicadores de Lagrange
+    3. [Optimización](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
+    4. Multiplicadores de Lagrange
     
 5. Integración
     1. [Antiderivadas](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/8.%20Antiderivadas.slides.html)
