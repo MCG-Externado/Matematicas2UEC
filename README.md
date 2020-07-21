@@ -31,13 +31,14 @@
     1. [Funciones de varias variables](slides/4.%20Funciones%20de%20dos%20Variables.slides.html)
     2. [Derivadas parciales](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/5.%20Derivadas%20Parciales.slides.html)
     3. Cobb-Douglas, CES, Elasticidad
-    4. Optimización
+    4. [Optimización](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
     5. Multiplicadores de Lagrange
     
 5. Integración
-    1. Integral definida
-    2. Antiderivadas, integrales definidas y Teorema Fundamental del Cálculo 
-    3. Métodos de integración
-    4. Curva de Lorentz y Coeficiente de Gini
-    5. Excedentes
+    1. [Antiderivadas](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/8.%20Antiderivadas.slides.html)
+    2. Técnicas de integración (sustitución)
+    3. Técnicas de integración (partes)
+    4. Integral definida y Áreas
+    5. Curva de Lorentz y Coeficiente de Gini
+    6. Excedentes
     
