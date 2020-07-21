@@ -29,7 +29,7 @@
     
 4. Funciones de varias variables 
     1. [Funciones de varias variables](slides/4.%20Funciones%20de%20dos%20Variables.slides.html)
-    2. [Derivadas parciales](slides/5.%20Derivadas%20Parciales.slides.html)
+    2. [Derivadas parciales](https://mcg-externado.github.io/Matematicas2UEC/slides/5.%20Derivadas%20Parciales.slides.html)
     3. [Optimización](slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
     4. Multiplicadores de Lagrange
     
