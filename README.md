@@ -30,14 +30,14 @@
 4. Funciones de varias variables 
     1. [Funciones de varias variables](slides/4.%20Funciones%20de%20dos%20Variables.slides.html)
     2. [Derivadas parciales](https://mcg-externado.github.io/Matematicas2UEC/slides/5.%20Derivadas%20Parciales.slides.html)
-    3. [Optimización](slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
+    3. [Optimización](https://mcg-externado.github.io/Matematicas2UEC/slides/6.%20Optimizaci%C3%B3nvv%20est.slides.html)
     4. Multiplicadores de Lagrange
     
 5. Integración
-    1. [Antiderivadas](slides/8.%20Antiderivadas.slides.html)
-    2. [Técnicas de integración (sustitución)](slides/9.%20Integraci%C3%B3n%20por%20Sustitucion%20.slides.html)
-    3. [Técnicas de integración (partes)](slides/10.%20Integraci%C3%B3n%20por%20partes.slides.html)
-    4. [Integral definida y Áreas](slides/11.%20Integral%20definida%20y%20%C3%A1reas.slides.html)
-    5. [Curva de Lorentz y Coeficiente de Gini](slides/12.%20Coeficiente%20de%20Gini.slides.html)
-    6. [Excedentes](slides/13.%20Excedentes.slides.html)
+    1. [Antiderivadas](https://mcg-externado.github.io/Matematicas2UEC/slides/8.%20Antiderivadas.slides.html)
+    2. [Técnicas de integración (sustitución)](https://mcg-externado.github.io/Matematicas2UEC/slides/9.%20Integraci%C3%B3n%20por%20Sustitucion%20.slides.html)
+    3. [Técnicas de integración (partes)](https://mcg-externado.github.io/Matematicas2UEC/slides/10.%20Integraci%C3%B3n%20por%20partes.slides.html)
+    4. [Integral definida y Áreas](https://mcg-externado.github.io/Matematicas2UEC/slides/11.%20Integral%20definida%20y%20%C3%A1reas.slides.html)
+    5. [Curva de Lorentz y Coeficiente de Gini](https://mcg-externado.github.io/Matematicas2UEC/slides/12.%20Coeficiente%20de%20Gini.slides.html)
+    6. [Excedentes](https://mcg-externado.github.io/Matematicas2UEC/slides/13.%20Excedentes.slides.html)
     
