@@ -36,9 +36,9 @@
     
 5. Integración
     1. [Antiderivadas](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/8.%20Antiderivadas.slides.html)
-    2. Técnicas de integración (sustitución)
-    3. Técnicas de integración (partes)
-    4. Integral definida y Áreas
-    5. Curva de Lorentz y Coeficiente de Gini
-    6. Excedentes
+    2. [Técnicas de integración (sustitución)](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/9.%20Integraci%C3%B3n%20por%20Sustitucion%20.slides.html)
+    3. [Técnicas de integración (partes)](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/10.%20Integraci%C3%B3n%20por%20partes.slides.html)
+    4. [Integral definida y Áreas](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/11.%20Integral%20definida%20y%20%C3%A1reas.slides.html)
+    5. [Curva de Lorentz y Coeficiente de Gini](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/12.%20Coeficiente%20de%20Gini.slides.html)
+    6. [Excedentes](https://github.com/MCG-Externado/Matematicas2UEC/blob/master/slides/13.%20Excedentes.slides.html)
     
